@@ -38,8 +38,8 @@ This application allows patients to upload their medical reports (e.g., lab resu
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
-   cd "AI Agent Health Diagnostic"
+   git clone https://github.com/aasthaojha-ai/HealthAI-Diagnostic_Agent
+   cd HealthAI-Diagnostic_Agent
    ```
 
 2. Install dependencies:
